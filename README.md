@@ -1,6 +1,6 @@
-# suziyan.com
+# emotinav.com
 
-Suziyan is a reflective editorial-style website about human emotions. This repository currently contains a lightweight static site with no build step.
+Emotinav is a reflective editorial-style website about human emotions. This repository currently contains a lightweight static site with no build step.
 
 ## Project Files
 
@@ -29,9 +29,9 @@ This project is well suited for:
 3. In GitHub, open `Settings > Pages`.
 4. Set the source to `Deploy from a branch`.
 5. Select the default branch and `/ (root)`.
-6. After the site is live, keep the `CNAME` file as `suziyan.com`.
+6. After the site is live, keep the `CNAME` file as `emotinav.com`.
 7. In your domain registrar, point the apex domain to GitHub Pages using the required DNS records.
 
 ## Domain Note
 
-The `CNAME` file assumes the final production domain will be `suziyan.com`. Only connect it after the domain is purchased and DNS is under your control.
+The `CNAME` file assumes the final production domain will be `emotinav.com`. Only connect it after the domain is purchased and DNS is under your control.
