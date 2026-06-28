@@ -2,6 +2,8 @@
 
 Emotinav is a reflective editorial-style website about human emotions. This repository currently contains a lightweight static site with no build step.
 
+Deployment note: this site is configured to publish on GitHub Pages with the custom domain `emotinav.com`.
+
 ## Project Files
 
 - `index.html` - page structure and content
